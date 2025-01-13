@@ -15,7 +15,7 @@ Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupn�
 ## Baterie
 ![Baterie](https://github.com/capino0/RC-auto/blob/main/IMG_4992.jpeg?raw=true)
 ## Motor pro převodovku
-![Motor pro převodovku]()
+![Motor pro převodovku](https://github.com/capino0/RC-auto/blob/main/IMG_4994%20(1).jpeg?raw=true)
 ## Podvozek
 ![Podvotek](https://github.com/capino0/RC-auto/blob/main/IMG_4995.jpeg?raw=true)
 ## Pohonný motor
