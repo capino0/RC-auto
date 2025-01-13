@@ -4,6 +4,8 @@
 
 Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupných komponentů.
 
+## Status: NEDOKONČENO
+
 ## Komponenty
 
 ### Dostupné
