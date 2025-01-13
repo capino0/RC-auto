@@ -8,9 +8,9 @@ Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupn�
 
 ### Dostupné
 - [Baterie](#Baterie): 7V 800mA lithiová baterie  
-- [Motor pro převodovku](#Motor_pro_převodovku): 12V, 14 ot/min motor s převodovkou  
+- [Motor pro převodovku](#Motor-pro-převodovku): 12V, 14 ot/min motor s převodovkou  
 - [Podvozek](#Podvozek): Kartonová základna
-- [Pohonný motor](#Pohonný_motor): 3-6V 6500-12500 ot/min
+- [Pohonný motor](#Pohonný-motor): 3-6V 6500-12500 ot/min
 
 ## Baterie
 ![Baterie](https://github.com/capino0/RC-auto/blob/main/IMG_4992.jpeg?raw=true)
