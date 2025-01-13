@@ -36,3 +36,6 @@ Základní komponenty jsou připraveny k montáži, projekt však zatím stojí 
 2. Počkat na doručeni transmitteru a receiveru pro dálkové ovládání.  
 3. Sestavit komponenty a otestovat systém.  
 
+## Poznámky
+- Chtěl bych poděkovat mému tátovi za navrh tohoto projektu a společné vymyšlení potřebných součástek
+
