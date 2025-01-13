@@ -7,9 +7,18 @@ Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupn�
 ## Komponenty
 
 ### Dostupné
-- **Baterie**: 7V 800mA lithiová baterie  
-- **Motor**: 12V, 14 ot/min motor s převodovkou  
-- **Podvozek**: Kartonová základna  
+- [Baterie](#Baterie): 7V 800mA lithiová baterie  
+- [Motor pro převodovkou](#Motor_pro_převodovkou): 12V, 14 ot/min motor s převodovkou  
+- [Podvozek](#Podvozek): Kartonová základna
+- [Pohonný motor](#Pohonný_motor): 3-6V 6500-12500 ot/min
+
+  ## Baterie
+
+ ## Motor pro převodovku
+
+ ## Podvozek
+
+ ## Pohonný motor
 
 ### Chybějící
 - **Sada ozubených koleček**: Potřebná pro přenos výkonu z motoru na kola  
@@ -23,10 +32,7 @@ Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupn�
 Základní komponenty jsou připraveny k montáži, projekt však zatím stojí kvůli chybějícím klíčovým částem.  
 
 ## Další kroky
-1. Získat nebo navrhnout ozubená kolečka a kola.  
-2. Zakoupit transmitter a receiver pro dálkové ovládání.  
+1. Počkat na doručeni ozubených koleček a kol.  
+2. Počkat na doručeni transmitteru a receiveru pro dálkové ovládání.  
 3. Sestavit komponenty a otestovat systém.  
-
-## Přispění
-Neváhejte přispět nápady nebo zdroji na získání chybějících komponent nebo zlepšení designu.
 
