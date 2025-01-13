@@ -13,7 +13,6 @@ Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupn�
 - [Pohonný motor](#Pohonný_motor): 3-6V 6500-12500 ot/min
 
 ## Baterie
-https://github.com/capino0/RC-auto/blob/main/IMG_4992.jpeg?raw=true
 
 ## Motor pro převodovku
 
