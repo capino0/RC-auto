@@ -26,7 +26,7 @@ Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupn�
 - **Transmitter a receiver**: Pro funkci dálkového ovládání  
 
 ## Cíle projektu
-- Sestavit funkční RC vozidlo s využitím dostupných komponent
+- Sestavit funkční RC vozidlo s využitím dostupných komponentů
 
 ## Aktuální stav
 Základní komponenty jsou připraveny k montáži, projekt však zatím stojí kvůli chybějícím klíčovým částem.  
