@@ -12,13 +12,13 @@ Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupn�
 - [Podvozek](#Podvozek): Kartonová základna
 - [Pohonný motor](#Pohonný_motor): 3-6V 6500-12500 ot/min
 
-  ## Baterie
+## Baterie
 
- ## Motor pro převodovku
+## Motor pro převodovku
 
- ## Podvozek
+## Podvozek
 
- ## Pohonný motor
+## Pohonný motor
 
 ### Chybějící
 - **Sada ozubených koleček**: Potřebná pro přenos výkonu z motoru na kola  
