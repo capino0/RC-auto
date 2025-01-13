@@ -19,7 +19,7 @@ Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupn�
 ## Podvozek
 ![Podvotek]
 ## Pohonný motor
-![
+![Pohonny motor]
 ### Chybějící
 - **Sada ozubených koleček**: Potřebná pro přenos výkonu z motoru na kola  
 - **Kola**: Nutná pro pohyb  
