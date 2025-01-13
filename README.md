@@ -2,7 +2,7 @@
 
 # RC Projekt
 
-Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupných komponent a vlastních řešení pro chybějící části.
+Tento projekt má za cíl vytvořit jednoduché RC vozidlo s využitím dostupných komponentů.
 
 ## Komponenty
 
